@@ -233,8 +233,12 @@ PerformanceCounter("Memory", "Available MBytes")
 ## 👨‍💻 Desenvolvimento
 
 **Autores**: Felipe Karmann, thiago Vogt
+
 **Disciplina**: Sistemas Operacionais
+
 **Versão**: 1.0.0
+
 **Data**: 2025
+
 ---
 **Nota**: Execute a aplicação com privilégios administrativos para acessar informações completas de todos os processos do sistema.
