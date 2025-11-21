@@ -232,19 +232,9 @@ PerformanceCounter("Memory", "Available MBytes")
 
 ## 👨‍💻 Desenvolvimento
 
-**Autor**: Estudante de Ciência da Computação
+**Autores**: Felipe Karmann, thiago Vogt
 **Disciplina**: Sistemas Operacionais
 **Versão**: 1.0.0
 **Data**: 2025
-
-## 📝 Licença
-
-Este projeto é desenvolvido para fins educacionais como trabalho acadêmico da disciplina de Sistemas Operacionais.
-
-## 🤝 Contribuições
-
-Este é um projeto acadêmico. Sugestões e melhorias são bem-vindas para fins de aprendizado.
-
 ---
-
 **Nota**: Execute a aplicação com privilégios administrativos para acessar informações completas de todos os processos do sistema.
